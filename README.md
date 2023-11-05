@@ -27,22 +27,22 @@ Information about the movies. This is a table of "MovieID :: Title :: Genres", w
 Movies can be in several genres at once.
 
 ## Data Visualizations
-### Rating
+Rating: High ratings(4,5 star) constitudes dominate.
 <div  align="center"> 
  <img src="Images/ratings.png" width = "600" height = "400" alt="Recommendation System">
-</div>
+</div>  
 
-### Movie Type
+Movie Type: Drama is most rated.
 <div  align="center"> 
  <img src="Images/movie types.png" width = "600" height = "400" alt="Recommendation System">
-</div>
+</div>  
 
-### Gender and Age
+Gender and Age: Male dominate, 25-39 years old users contribute most.
 <div  align="center"> 
- <img src="users.png" width = "600" height = "400" alt="Recommendation System">
-</div>
+ <img src="Images/users.png" width = "600" height = "400" alt="Recommendation System">
+</div>  
 
-### Occupation
+Occupation: Students contribute most ratings.
 <div  align="center"> 
  <img src="Images/occupations.png" width = "600" height = "400" alt="Recommendation System">
 </div>
