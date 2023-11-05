@@ -32,17 +32,17 @@ Rating: Users are quite positive in general (give 4,5 ratings).
  <img src="Images/ratings.png" width = "600" height = "400" alt="Recommendation System">
 </div>  
 
-Movie Type: Drama is most rated.
+Movie Type: Drama and comedy are the most "popular" movie types. Although we can't distinguish positive or negative comments, at least we can know that movie makers are in favor of these two types.
 <div  align="center"> 
  <img src="Images/movie types.png" width = "600" height = "400" alt="Recommendation System">
 </div>  
 
-Gender and Age: Male dominate, 25-39 years old users contribute most.
+Gender and Age: Male dominates, 25-39 years old users contribute most.
 <div  align="center"> 
  <img src="Images/users.png" width = "600" height = "400" alt="Recommendation System">
 </div>  
 
-Occupation: Students contribute most ratings.
+Occupation: Students contribute most.
 <div  align="center"> 
  <img src="Images/occupations.png" width = "600" height = "400" alt="Recommendation System">
 </div>
