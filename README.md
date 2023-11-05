@@ -27,4 +27,22 @@ Information about the movies. This is a table of "MovieID :: Title :: Genres", w
 Movies can be in several genres at once.
 
 ## Data Visualizations
+### Rating
+<div  align="center"> 
+ <img src="Images/ratings.png" width = "600" height = "400" alt="Recommendation System">
+</div>
 
+### Movie Type
+<div  align="center"> 
+ <img src="Images/movie types.png" width = "600" height = "400" alt="Recommendation System">
+</div>
+
+### Gender and Age
+<div  align="center"> 
+ <img src="users.png" width = "600" height = "400" alt="Recommendation System">
+</div>
+
+### Occupation
+<div  align="center"> 
+ <img src="Images/occupations.png" width = "600" height = "400" alt="Recommendation System">
+</div>
