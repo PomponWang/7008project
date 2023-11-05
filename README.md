@@ -27,7 +27,7 @@ Information about the movies. This is a table of "MovieID :: Title :: Genres", w
 Movies can be in several genres at once.
 
 ## Data Visualizations
-Rating: High ratings(4,5 star) constitudes dominate.
+Rating: Users are quite positive in general (give 4,5 ratings).
 <div  align="center"> 
  <img src="Images/ratings.png" width = "600" height = "400" alt="Recommendation System">
 </div>  
