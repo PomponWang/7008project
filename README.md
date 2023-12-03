@@ -9,6 +9,10 @@ A recommender system is a subclass of information filtering system that seeks to
  <img src="Images/Recommendation System.png" width = "600" height = "400" alt="Recommendation System">
 </div>
 
+# Reference Paper
+Hailun Lin, Yong Liu, Weiping Wang, Yinliang Yue, Zheng Lin, [Learning Entity and Relation Embeddings for Knowledge Resolution](https://www.sciencedirect.com/science/article/pii/S1877050917305628), Procedia Computer Science, Volume 108, 2017, Pages 345-354, ISSN 1877-0509.
+
+
 # Dataset
 [MovieLens 1M Dataset](https://grouplens.org/datasets/movielens/1m/) has been used for this project. MovieLens is a rating dataset from the MovieLens website. MovieLens data sets were collected by the GroupLens Research Project at the University of Minnesota.
 
