@@ -12,7 +12,7 @@ A recommender system is a subclass of information filtering system that seeks to
 # Reference Paper
 Hailun Lin, Yong Liu, Weiping Wang, Yinliang Yue, Zheng Lin, [Learning Entity and Relation Embeddings for Knowledge Resolution](https://www.sciencedirect.com/science/article/pii/S1877050917305628), Procedia Computer Science, Volume 108, 2017, Pages 345-354, ISSN 1877-0509.
 
-[Source code]([https://github.com/mrlyk423/relation extraction](https://github.com/Mrlyk423/Relation_Extraction))
+([https://github.com/mrlyk423/relation extraction](https://github.com/Mrlyk423/Relation_Extraction))
 
 # Dataset
 [MovieLens 1M Dataset](https://grouplens.org/datasets/movielens/1m/) has been used for this project. MovieLens is a rating dataset from the MovieLens website. MovieLens data sets were collected by the GroupLens Research Project at the University of Minnesota.
