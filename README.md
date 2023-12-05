@@ -10,46 +10,9 @@ A recommender system is a subclass of information filtering system that seeks to
 </div>
 
 # Reference Paper
-Hailun Lin, Yong Liu, Weiping Wang, Yinliang Yue, Zheng Lin, [Learning Entity and Relation Embeddings for Knowledge Resolution](https://www.sciencedirect.com/science/article/pii/S1877050917305628), Procedia Computer Science, Volume 108, 2017, Pages 345-354, ISSN 1877-0509.
+Hailun Lin, Yong Liu, Weiping Wang, Yinliang Yue, Zheng Lin. [Learning Entity and Relation Embeddings for Knowledge Resolution](https://www.sciencedirect.com/science/article/pii/S1877050917305628). Procedia Computer Science, Volume 108, 2017, Pages 345-354, ISSN 1877-0509.
 
-[A quick review of Trans-series model for KG](https://zhuanlan.zhihu.com/p/144412694)
-
-[Reference Source Code](https://github.com/Mrlyk423/Relation_Extraction)
+Han, Xu and Cao, Shulin and Lv Xin and Lin, Yankai and Liu, Zhiyuan and Sun, Maosong and Li, Juanzi. [OpenKE: An Open Toolkit for Knowledge Embedding](https://aclanthology.org/D18-2024.pdf). Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing: System Demonstrations.
 
 # Dataset
 [MovieLens 1M Dataset](https://grouplens.org/datasets/movielens/1m/) has been used for this project. MovieLens is a rating dataset from the MovieLens website. MovieLens data sets were collected by the GroupLens Research Project at the University of Minnesota.
-
-
-This data set consists of:
-
-### ratings.dat
-anonymous ratings (1-5) of approximately 3,900 movies made by 6,040 MovieLens users. Users are numbered consecutively from 1. This is a table of "UserID :: MovieID :: Rating :: Timestamp".  
-
-### users.dat
-Infromation of users. This is a table of "UserID :: Gender :: Age :: Occupation :: Zip-code".  
-
-### movies.dat
-Information about the movies. This is a table of "MovieID :: Title :: Genres", where Genres are pipe-separated and are selected from the following 18 genres: action | adventure | animation | children's | comedy | crime | documentary | drama | fantasy | film-noir | horror | musical | mystery | romance | sci-fi | thriller | war | western.
-
-Movies can be in several genres at once.
-
-## Data Visualizations
-Rating: Users are quite positive in general (give 4,5 ratings).
-<div  align="center"> 
- <img src="Images/ratings.png" width = "600" height = "400" alt="Recommendation System">
-</div>  
-
-Movie Type: Drama and comedy are the most "popular" movie types. Although we can't distinguish positive or negative comments, at least we can know that movie makers are in favor of these two types.
-<div  align="center"> 
- <img src="Images/movie types.png" width = "600" height = "400" alt="Recommendation System">
-</div>  
-
-Gender and Age: Male dominates, 25-39 years old users contribute most.
-<div  align="center"> 
- <img src="Images/users.png" width = "600" height = "400" alt="Recommendation System">
-</div>  
-
-Occupation: Students contribute most.
-<div  align="center"> 
- <img src="Images/occupations.png" width = "600" height = "400" alt="Recommendation System">
-</div>
